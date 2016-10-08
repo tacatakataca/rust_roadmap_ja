@@ -3,7 +3,7 @@
 in 2016.Oct.9(Sun)  
 
 # Rustとは
-## 概要
+## Rust
 `Rustは、セグメンテーション違反を防ぐ、スレッドセーフティを保証した、超はやい システムプログラミング言語です。`  
 [Rust Programming Language](https://www.rust-lang.org/en-US/)
 
