@@ -7,7 +7,7 @@ in 2016.Oct.9(Sun)
 ## 総合チュートリアル
 - [公式のチュートリアル（日本語訳）]
 (https://rust-lang-ja.github.io/the-rust-programming-language-ja/1.6/book/README.html)
-- [動く Rust Example（日本語訳）]
+- [Rustの動くサンプル集(Rust by Example)（日本語訳）]
 (https://github.com/rust-lang-ja/rust-by-example-ja)
 
 # インストール
